@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "10",
+      "name": "muneer n",
+      "email": "muneer@gmail.com",
+      "designation": "developer",
+      "salary": "500000"
+    },
+    {
+      "id": "15",
+      "name": "few",
+      "email": "bhfddgf@",
+      "designation": "ghrhvuigh",
+      "salary": "85000"
+    },
+    {
+      "id": "5",
+      "name": "adgi",
+      "email": "dsad@",
+      "designation": "dfsd",
+      "salary": "741852"
+    },
+    {
+      "id": "18",
+      "name": "sdfg",
+      "email": "sdfgh@",
+      "designation": "fghj",
+      "salary": "74"
+    },
+    {
+      "id": "52",
+      "name": "kjhg",
+      "email": "djwgfd@",
+      "designation": "develope",
+      "salary": "8596"
+    },
+    {
+      "id": "85",
+      "name": "kjhgf",
+      "email": "bhfddgf@",
+      "designation": "iyt",
+      "salary": "9685"
+    }
+  ]
+}
